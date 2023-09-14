@@ -1,0 +1,29 @@
+@font-face{
+    font-family: aileron;
+    src: url(./font/Aileron/Aileron-Light.otf);
+}
+
+.itemListContainer{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(208, 212, 212);
+    font-weight: bolder;
+    font-family: aileron;
+    text-align: center;
+} 
+
+.hw{
+    
+    border: 8px;
+    text-decoration: solid;
+    font-size: 80px;
+
+}
+
+img{
+    width: 200px;
+    height: 240px;
+}
